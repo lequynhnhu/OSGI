@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CapteurHumidite
+Bundle-SymbolicName: CapteurHumidite
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: osgi.sensor.humidite.Activator
+Import-Package: hidException,
+ oakRH,
+ org.osgi.framework,
+ osgi.sensor

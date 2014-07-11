@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: HelloService
+Bundle-SymbolicName: HelloService
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: HelloService.jar
+Export-Package: osgi.hello

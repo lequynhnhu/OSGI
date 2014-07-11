@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CapteurTemperature
+Bundle-SymbolicName: CapteurTemperature
+Bundle-Version: 1.0.0.qualifier
+Export-Package: osgi.sensor.temperature
+Import-Package: org.osgi.framework,
+ osgi.sensor
+Bundle-Activator: osgi.sensor.temperature.Activator
